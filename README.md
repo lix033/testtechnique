@@ -1,16 +1,13 @@
 # hubtest
 
-A new Flutter project.
+1- Ouvrir le projet dans votre éditeur de code
+2- Une fois chargé, tapez la commande suivante dans le terminal ouvert a la racine du projet
+----------------------dart pub get----------------------------------------------------------
+3- Vous pouvez maintenant run&Debug le code.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+INFORMATIONS :
+*Il faut connecter la machine a internet pour pouvoir voir les données récuperez et afficher via l'api
+*la récupération en temps réel des tauc de change n'a pa été effective
+*l'icon + sur la page dépenses permet d'acceder a la page nouvelle dépense 
+*Dans la bare de navigation, l'icon Settings représente la page New wallet ( a defaut de laissé celle-ci vide)
